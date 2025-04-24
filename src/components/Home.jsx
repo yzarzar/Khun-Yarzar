@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import profileImage from "../assets/profile.jpg";
+import profileImage from "../assets/profile.jpeg";
 import {
   FaGithub,
   FaLinkedin,
