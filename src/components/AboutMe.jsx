@@ -2,7 +2,7 @@ import React from "react";
 import { FaCode, FaLightbulb, FaRocket, FaBook, FaBriefcase, FaReact, FaJs, FaPhp, FaDatabase, FaJava, FaServer, FaGlobe } from "react-icons/fa";
 import { SiLaravel, SiSpringboot } from "react-icons/si";
 import { motion } from "framer-motion";
-import image from "../assets/photo.jpg";
+import image from "../assets/photo.jpeg";
 
 const AboutMe = () => {
   const containerVariants = {
